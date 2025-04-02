@@ -14,18 +14,20 @@ In my free time, I enjoy **learning new languages** and **ultra-distance cycling
 
 | **Project Name**             | **Description**                                                                 | **Year** | **Links**                    |
 |------------------------------|---------------------------------------------------------------------------------|----------|------------------------------|
-| **Tech Salary Prediction**    | A full-stack app using NLP to predict salaries based on job descriptions in the tech sector. | 2025     | [Web App](https://tech-salary-prediction.vercel.app/) / [GitHub](https://github.com/dm-shr/tech-salary-prediction)|
-| **Kapital Assistant**         | An AI copilot for private investors to chat about financial reports of public companies. | 2024     | [Web App](https://kapital-assistant.vercel.app/) / [GitHub](https://github.com/dm-shr/kapital-assistant) |
-| **Social Network Analytics**  | End-to-end analytics setup with data engineering, A/B testing, and time series analysis. | 2023     | [GitHub](https://github.com/dm-shr/social-network-analytics)         |
+| **Tech Salary Prediction**    | A full-stack app using NLP to predict salaries based on job descriptions in the tech sector. | 2025     | [App](https://tech-salary-prediction.vercel.app/) / [Repo](https://github.com/dm-shr/tech-salary-prediction)|
+| **Kapital Assistant**         | An AI copilot for private investors to chat about financial reports of public companies. | 2024     | [App](https://kapital-assistant.vercel.app/) / [Repo](https://github.com/dm-shr/kapital-assistant) |
+| **Social Network Analytics**  | End-to-end analytics setup with data engineering, A/B testing, and time series analysis. | 2023     | [Repo](https://github.com/dm-shr/social-network-analytics)         |
 
 ---
 
-### Hackathons / Awards / Courses 🏆
+### Hackathons / Public Speaking / Courses 🏆
 
 | **Name**                     | **Description**                                                              | **Year** | **Links**                         |
 |------------------------------|------------------------------------------------------------------------------|----------|-----------------------------------|
-| **ODS NLP Course**            | Advanced course focusing on the latest trends in NLP.                         | 2024     | [Course Leaderboard](https://ods.ai/tracks/nlp-course-autumn-2024/leaderboard/leaderboard) / [Certificate](...)        |
-| **Hack.genesis Hackathon**    | First place for the best RAG system for financial data.                       | 2024     | [Certificate](...)                         |
+| **ODS NLP Course**            | Advanced course focusing on the latest trends in NLP.                         | 2025     | [Course Leaderboard](https://ods.ai/tracks/nlp-course-autumn-2024/leaderboard/leaderboard) / [Certificate](https://github.com/dm-shr/dm-shr/blob/main/NLP_ODS_Course_Certificate.pdf)        |
+| **Hack.genesis Hackathon**    | 🏆 best RAG system for financial data.                       | 2024     | [Certificate](https://github.com/dm-shr/dm-shr/blob/main/Hack_genesis_certificate.pdf)                         |
+| **Speaker at the PyData meetup**    |  "Building RAG for Financial Data"                       | 2024     | [Post Link](https://www.linkedin.com/posts/pydata-stockholm_pydatastockholm-ai-llms-activity-7263248403776593920-_1rb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUucD8BqN2aiEc42fI474IwJCtjT8IdWr8)                  |
+| **Cillers Hackathon**    | 🏆 best AI-driven contract search system .                       | 2024     | -                  |
 
 
 
