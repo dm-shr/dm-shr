@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is **Dmitrii** (but you can call me **Dima** for short), and I am a **Machine Learning Engineer** with a passion for **NLP** and **bioinformatics**.
+My name is **Dmitrii** (but you can call me **Dima** for short), and I am a **Data Scientist**/**Machine Learning Engineer** with a passion for **NLP** and **bioinformatics**.
 
 With an extensive background in **analytics** and **data science**, I have worked on a variety of projects – from **RAG & Agents** in the finance and **EdTech** sectors to **NLP pipelines** for **HR** and **investor relations**. My experience ranges from **analytics** to deploying **ML models** into production. 🚀
 
